@@ -1,0 +1,211 @@
+[
+  {
+    "quotationStatus": "Elegível",
+    "information": "",
+    "packageId": "1",
+    "quotationId": "4560000205831",
+    "companyId": "1",
+    "branchCode": "231",
+    "insuranceDurationTypeCode": 1,
+    "insuranceTypeCode": 2,
+    "claimIndemnityTypeCode": "M",
+    "ciCode": "62322020152189",
+    "supplementNumber": "0",
+    "effectiveDate": "30062023",
+    "dueDate": "30062024",
+    "calculationDate": "21062023",
+    "insuranceRiskRating": 618,
+    "franchiseTypeCode": 0,
+    "liquidPremiumAmmount": 2876.84,
+    "claimLastTermInd": false,
+    "bonusClassTypeCode": 9,
+    "distributorId": "89064",
+    "comissionOperationPerc": 10,
+    "adjustmentFactorPerc": 100,
+    "modalityCode": 23101,
+    "iofInd": false,
+    "projectParticipants": [
+      {
+        "address": {
+          "roadTypeCode": "1",
+          "addressName": "R ANERON C DE OLIVEIRA",
+          "addressNum": "159",
+          "zipCode": "04794000",
+          "stateCode": "6",
+          "municipalityDesc": "JARDIM DO SALSO",
+          "countryDesc": "BRA",
+          "provinceCode": 956
+        },
+        "contactMethod": [
+          {
+            "contactMethodTypeCode": "1",
+            "contactMethodValue": "teste@encriptado.com.br",
+            "authorizedContactInd": false
+          },
+          {
+            "contactMethodTypeCode": "2",
+            "contactMethodValue": "00",
+            "authorizedContactInd": false
+          },
+          {
+            "contactMethodTypeCode": "3",
+            "contactMethodValue": "63775679397",
+            "authorizedContactInd": false
+          }
+        ],
+        "identificationMethod": {
+          "identityDocumentTypeCode": "CPF",
+          "identityDocumentNumber": "94993900813",
+          "susepDocumentDesc": "RG",
+          "susepDocumentNumber": "9016777352",
+          "susepDocumentExpeditionDate": "02052000",
+          "dispatcherAgenciesTypeDesc": "SRS"
+        },
+        "figurePersonalData": {
+          "name": "PRAML GISELA ",
+          "birthdate": "23071969",
+          "genderCode": "1",
+          "maritalStatusCode": "C",
+          "professionCode": 159,
+          "monthlyIncomesAmn": 1
+        }
+      }
+    ],
+    "legalEntity": {
+      "companyTypeCode": "N"
+    },
+    "autoInfo": {
+      "chassisNumber": "94DTBAL10AJ408494",
+      "vehiclePlateNumber": "IQP8486",
+      "optionalCodeList": [
+        0
+      ],
+      "fiduciaryAlienationDesc": "1",
+      "vehicleCertificateName": "1"
+    },
+    "autoRisk": {
+      "profileInd": true,
+      "taxExemptionTypeCode": 4,
+      "autoDetail": {
+        "refValMarkCode": "023085-5",
+        "submodelName": "LIVINA 1.8 SL 16v (Aut.) Flex 4p A/G",
+        "natureUseTypeCode": "1",
+        "vehicleModelYearNum": "2010",
+        "km0Ind": false
+      }
+    },
+    "riskAssessmentQuestionnaire": {
+      "personNameConductor": "PRAML GISELA ",
+      "birthDateConductor": "23071969",
+      "identityDocumentNumberConductor": "94993900813",
+      "genderCodeConductor": "1",
+      "maritalStatusCodeConductor": "C",
+      "clientInsuranceRelationshipTypeCodeConductor": 10,
+      "provinceCodeConductor": 0,
+      "underAgeDriverInd": false,
+      "truckBodyTypeCode": 0
+    },
+    "simulationCommercialProduct": [
+      {
+        "coverages": [
+          {
+            "coverageId": "116",
+            "coverageTitle": "RCF - Danos Morais / Estéticos",
+            "franchise": 0,
+            "coverageAmn": 30000
+          },
+          {
+            "coverageId": "119",
+            "coverageTitle": "APP - Morte (Por Passageiro)",
+            "franchise": 0,
+            "coverageAmn": 10000
+          },
+          {
+            "coverageId": "120",
+            "coverageTitle": "APP - Invalidez (Por Ocupante)",
+            "franchise": 0,
+            "coverageAmn": 10000
+          },
+          {
+            "coverageId": "139",
+            "coverageTitle": "Assistência Casa",
+            "franchise": 0,
+            "coverageAmn": 0
+          },
+          {
+            "coverageId": "201",
+            "coverageTitle": "DANOS PROPRIOS PARCIAIS",
+            "franchise": 2775.5,
+            "coverageAmn": 30171
+          },
+          {
+            "coverageId": "202",
+            "coverageTitle": "Incendio",
+            "franchise": 0,
+            "coverageAmn": 30171
+          },
+          {
+            "coverageId": "203",
+            "coverageTitle": "Roubo/Furto",
+            "franchise": 0,
+            "coverageAmn": 30171
+          },
+          {
+            "coverageId": "204",
+            "coverageTitle": "RCFA - Danos Materiais",
+            "franchise": 0,
+            "coverageAmn": 150000
+          },
+          {
+            "coverageId": "205",
+            "coverageTitle": "RCFA - Danos Corporais",
+            "franchise": 0,
+            "coverageAmn": 300000
+          },
+          {
+            "coverageId": "206",
+            "coverageTitle": "RCFA - Objetos Transportados",
+            "franchise": 0,
+            "coverageAmn": 300000
+          },
+          {
+            "coverageId": "218",
+            "coverageTitle": "DANOS PROPRIOS TOTAIS",
+            "franchise": 0,
+            "coverageAmn": 30171
+          },
+          {
+            "coverageId": "1301",
+            "coverageTitle": "Vidros",
+            "franchise": 0,
+            "coverageAmn": 0
+          },
+          {
+            "coverageId": "1302",
+            "coverageTitle": "Carro Reserva",
+            "franchise": 0,
+            "coverageAmn": 0
+          },
+          {
+            "coverageId": "1303",
+            "coverageTitle": "Extensão de Reboque",
+            "franchise": 0,
+            "coverageAmn": 0
+          },
+          {
+            "coverageId": "1304",
+            "coverageTitle": "Assistência 24h",
+            "franchise": 0,
+            "coverageAmn": 0
+          },
+          {
+            "coverageId": "2324",
+            "coverageTitle": "Factor de Ajuste",
+            "franchise": 0,
+            "coverageAmn": 0
+          }
+        ]
+      }
+    ]
+  }
+]

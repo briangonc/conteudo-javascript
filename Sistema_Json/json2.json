@@ -1,0 +1,3704 @@
+[
+    {
+        "quotationStatus": "Elegível",
+        "information": "",
+        "packageId": "1",
+        "quotationId": "4560000205831",
+        "companyId": "1",
+        "branchCode": "231",
+        "insuranceDurationTypeCode": 1,
+        "insuranceTypeCode": 2,
+        "claimIndemnityTypeCode": "M",
+        "ciCode": "62322020152189",
+        "supplementNumber": "0",
+        "effectiveDate": "30062023",
+        "dueDate": "30062024",
+        "calculationDate": "21062023",
+        "insuranceRiskRating": 618,
+        "franchiseTypeCode": 0,
+        "liquidPremiumAmmount": 2876.84,
+        "claimLastTermInd": false,
+        "bonusClassTypeCode": 9,
+        "distributorId": "89064",
+        "comissionOperationPerc": 10,
+        "adjustmentFactorPerc": 100,
+        "modalityCode": 23101,
+        "iofInd": false,
+        "projectParticipants": [
+            {
+                "address": {
+                    "roadTypeCode": "1",
+                    "addressName": "R ANERON C DE OLIVEIRA",
+                    "addressNum": "159",
+                    "zipCode": "04794000",
+                    "stateCode": "6",
+                    "municipalityDesc": "JARDIM DO SALSO",
+                    "countryDesc": "BRA",
+                    "provinceCode": 956
+                },
+                "contactMethod": [
+                    {
+                        "contactMethodTypeCode": "1",
+                        "contactMethodValue": "teste@encriptado.com.br",
+                        "authorizedContactInd": false
+                    },
+                    {
+                        "contactMethodTypeCode": "2",
+                        "contactMethodValue": "00",
+                        "authorizedContactInd": false
+                    },
+                    {
+                        "contactMethodTypeCode": "3",
+                        "contactMethodValue": "63775679397",
+                        "authorizedContactInd": false
+                    }
+                ],
+                "identificationMethod": {
+                    "identityDocumentTypeCode": "CPF",
+                    "identityDocumentNumber": "94993900813",
+                    "susepDocumentDesc": "RG",
+                    "susepDocumentNumber": "9016777352",
+                    "susepDocumentExpeditionDate": "02052000",
+                    "dispatcherAgenciesTypeDesc": "SRS"
+                },
+                "figurePersonalData": {
+                    "name": "PRAML GISELA ",
+                    "birthdate": "23071969",
+                    "genderCode": "1",
+                    "maritalStatusCode": "C",
+                    "professionCode": 159,
+                    "monthlyIncomesAmn": 1
+                }
+            }
+        ],
+        "legalEntity": {
+            "companyTypeCode": "N"
+        },
+        "autoInfo": {
+            "chassisNumber": "94DTBAL10AJ408494",
+            "vehiclePlateNumber": "IQP8486",
+            "optionalCodeList": [0],
+            "fiduciaryAlienationDesc": "1",
+            "vehicleCertificateName": "1"
+        },
+        "autoRisk": {
+            "profileInd": true,
+            "taxExemptionTypeCode": 4,
+            "autoDetail": {
+                "refValMarkCode": "023085-5",
+                "submodelName": "LIVINA 1.8 SL 16v (Aut.) Flex 4p A/G",
+                "natureUseTypeCode": "1",
+                "vehicleModelYearNum": "2010",
+                "km0Ind": false
+            }
+        },
+        "riskAssessmentQuestionnaire": {
+            "personNameConductor": "PRAML GISELA ",
+            "birthDateConductor": "23071969",
+            "identityDocumentNumberConductor": "94993900813",
+            "genderCodeConductor": "1",
+            "maritalStatusCodeConductor": "C",
+            "clientInsuranceRelationshipTypeCodeConductor": 10,
+            "provinceCodeConductor": 0,
+            "underAgeDriverInd": false,
+            "truckBodyTypeCode": 0
+        },
+        "simulationCommercialProduct": [
+            {
+                "coverages": [
+                    {
+                        "coverageId": "116",
+                        "coverageTitle": "RCF - Danos Morais / Estéticos",
+                        "franchise": 0,
+                        "coverageAmn": 30000,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 33.23
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 22.81
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 22.81
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 2.45
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 2.6
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 3.61
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -0.72
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -0.72
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 5.29
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 5.29
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 4.2
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 4.2
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 3.59
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 3.59
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 13.74
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "119",
+                        "coverageTitle": "APP - Morte (Por Passageiro)",
+                        "franchise": 0,
+                        "coverageAmn": 10000,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 10.69
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 15.64
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 10.69
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 1.24
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 1.72
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 1.15
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 2.47
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 2.47
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 1.93
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 1.93
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 1.68
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 1.68
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 6.55
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "120",
+                        "coverageTitle": "APP - Invalidez (Por Ocupante)",
+                        "franchise": 0,
+                        "coverageAmn": 10000,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 5.64
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 9.1
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 5.64
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 0.65
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 0.91
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 0.67
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 1.3
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 1.3
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 1.02
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 1.02
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 0.88
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 0.88
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 3.45
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "139",
+                        "coverageTitle": "Assistência Casa",
+                        "franchise": 0,
+                        "coverageAmn": 0,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 119,
+                                "CoverageBreakDownTitle": "DESC. COB GRATUITA",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 119,
+                                "CoverageBreakDownTitle": "DESC. COB GRATUITA",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "201",
+                        "coverageTitle": "DANOS PROPRIOS PARCIAIS",
+                        "franchise": 2775.5,
+                        "coverageAmn": 30171,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 153.17
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 439.27
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 153.17
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 33.66
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 46.81
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 32.42
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -4.82
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -4.82
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 35.53
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 35.53
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 28.22
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 28.22
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 24.1
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 24.1
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 219.86
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 219.86
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 178.17
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "202",
+                        "coverageTitle": "Incendio",
+                        "franchise": 0,
+                        "coverageAmn": 30171,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 7.34
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 439.27
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 7.34
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 0.84
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 1.16
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 32.42
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -0.23
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -0.23
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 1.7
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 1.7
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 1.35
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 1.35
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 1.15
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 1.15
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 4.42
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "203",
+                        "coverageTitle": "Roubo/Furto",
+                        "franchise": 0,
+                        "coverageAmn": 30171,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 156.11
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 439.27
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 156.11
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 17.77
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 24.71
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 32.42
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -4.91
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -4.91
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 36.21
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 36.21
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 28.76
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 28.76
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 24.56
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 24.56
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 94.05
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "204",
+                        "coverageTitle": "RCFA - Danos Materiais",
+                        "franchise": 0,
+                        "coverageAmn": 150000,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 371.48
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 496.7
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 371.48
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 42.28
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 58.79
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 36.66
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -11.69
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -11.69
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 86.16
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 86.16
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 68.44
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 68.44
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 58.45
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 58.45
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 223.79
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "205",
+                        "coverageTitle": "RCFA - Danos Corporais",
+                        "franchise": 0,
+                        "coverageAmn": 300000,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 55.51
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 113.35
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 55.51
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 6.32
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 8.78
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 8.37
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -1.75
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -1.75
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 12.87
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 12.87
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 10.23
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 10.23
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 8.73
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 8.73
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 33.44
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "206",
+                        "coverageTitle": "RCFA - Objetos Transportados",
+                        "franchise": 0,
+                        "coverageAmn": 300000,
+                        "coverageBreakDown": []
+                    },
+                    {
+                        "coverageId": "218",
+                        "coverageTitle": "DANOS PROPRIOS TOTAIS",
+                        "franchise": 0,
+                        "coverageAmn": 30171,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 253.32
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "anualValue": 439.27
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 253.32
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 28.83
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 40.09
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "anualValue": 32.42
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -7.97
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": -7.97
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 58.75
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 58.75
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 46.67
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 46.67
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 39.86
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 39.86
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 118,
+                                "CoverageBreakDownTitle": "24 HORAS Y HOGAR",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 127,
+                                "CoverageBreakDownTitle": "MODELAGEM",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 128,
+                                "CoverageBreakDownTitle": "BATENTE",
+                                "anualValue": 152.61
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "1301",
+                        "coverageTitle": "Vidros",
+                        "franchise": 0,
+                        "coverageAmn": 0,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 76.62
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 76.62
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 8.87
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 8.87
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 17.72
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 17.72
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 13.83
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 13.83
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 12.02
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 12.02
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "1302",
+                        "coverageTitle": "Carro Reserva",
+                        "franchise": 0,
+                        "coverageAmn": 0,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 17.07
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 17.07
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 1.98
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 1.98
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 3.95
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 3.95
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 3.08
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 3.08
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 2.68
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 2.68
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "1303",
+                        "coverageTitle": "Extensão de Reboque",
+                        "franchise": 0,
+                        "coverageAmn": 0,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 128.6
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 128.6
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 14.89
+                            },
+                            {
+                                "CoverageBreakDownId": 6,
+                                "CoverageBreakDownTitle": "IOF",
+                                "anualValue": 14.89
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 29.73
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 29.73
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 23.21
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 23.21
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 20.17
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 20.17
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 129,
+                                "CoverageBreakDownTitle": "VIGENCIA DA APOLICE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 133,
+                                "CoverageBreakDownTitle": "AJUSTE PREMIO MANUAL",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "1304",
+                        "coverageTitle": "Assistência 24h",
+                        "franchise": 0,
+                        "coverageAmn": 0,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 140.17
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 140.17
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 100,
+                                "CoverageBreakDownTitle": "MARKET PRICING  (FLEXIVEL)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 101,
+                                "CoverageBreakDownTitle": "AJUSTE COMERCIAL (CAMPANHAS)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 102,
+                                "CoverageBreakDownTitle": "AJUSTES AFINIDADE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 103,
+                                "CoverageBreakDownTitle": "LUCRO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 32.41
+                            },
+                            {
+                                "CoverageBreakDownId": 104,
+                                "CoverageBreakDownTitle": "DESPESAS ADMINISTRATIVAS",
+                                "anualValue": 32.41
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 25.3
+                            },
+                            {
+                                "CoverageBreakDownId": 105,
+                                "CoverageBreakDownTitle": "OUTRAS DESPESAS",
+                                "anualValue": 25.3
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 106,
+                                "CoverageBreakDownTitle": "CARREGAMENTO FIXO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 21.99
+                            },
+                            {
+                                "CoverageBreakDownId": 107,
+                                "CoverageBreakDownTitle": "AJUSTE PRIMA LIQUIDACION COM",
+                                "anualValue": 21.99
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 109,
+                                "CoverageBreakDownTitle": "RENOVACAO COMPETITIVA(REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 110,
+                                "CoverageBreakDownTitle": "MESA (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 111,
+                                "CoverageBreakDownTitle": "CLUBE DO SEGURO NOVO (REALES)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 112,
+                                "CoverageBreakDownTitle": "PREMIO MINIMO CARREGADO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 113,
+                                "CoverageBreakDownTitle": "PREMIO MAXIMO(COMERC+CARREGA)",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 119,
+                                "CoverageBreakDownTitle": "DESC. COB GRATUITA",
+                                "anualValue": -219.87
+                            },
+                            {
+                                "CoverageBreakDownId": 119,
+                                "CoverageBreakDownTitle": "DESC. COB GRATUITA",
+                                "anualValue": -219.87
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 120,
+                                "CoverageBreakDownTitle": "RESTITUICAO",
+                                "anualValue": 0
+                            }
+                        ]
+                    },
+                    {
+                        "coverageId": "2324",
+                        "coverageTitle": "Factor de Ajuste",
+                        "franchise": 0,
+                        "coverageAmn": 0,
+                        "coverageBreakDown": [
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 1,
+                                "CoverageBreakDownTitle": "PREMIO",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 117,
+                                "CoverageBreakDownTitle": "FACTOR_AJUSTE",
+                                "anualValue": 0
+                            },
+                            {
+                                "CoverageBreakDownId": 117,
+                                "CoverageBreakDownTitle": "FACTOR_AJUSTE",
+                                "anualValue": 0
+                            }
+                        ]
+                    }
+                ],
+                "paymentModalityComplete": [
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2301,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "1",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2302,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "2",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2303,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "3",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3150.64,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 57.25,
+                                    "interestTaxesAmn": 4.23
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2304,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "4",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3181.53,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 86.02,
+                                    "interestTaxesAmn": 6.35
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2305,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "5",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3398.07,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 287.68,
+                                    "interestTaxesAmn": 21.23
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2306,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "6",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3478.39,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 362.48,
+                                    "interestTaxesAmn": 26.75
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2307,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "7",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3558.71,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 437.28,
+                                    "interestTaxesAmn": 32.27
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2308,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "8",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3642.11,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 514.95,
+                                    "interestTaxesAmn": 38
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2309,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "9",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3790.39,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 653.04,
+                                    "interestTaxesAmn": 48.19
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2310,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "BA",
+                                    "quotasAmn": "10",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3886.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 742.22,
+                                    "interestTaxesAmn": 54.78
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2301,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "1",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2302,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "2",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2303,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "3",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2304,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "4",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2305,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "5",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2306,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "6",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2307,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "7",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3367.19,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 258.92,
+                                    "interestTaxesAmn": 19.11
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2308,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "8",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3444.42,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 330.84,
+                                    "interestTaxesAmn": 24.42
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2309,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "9",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3537.08,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 417.14,
+                                    "interestTaxesAmn": 30.78
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2310,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DB",
+                                    "quotasAmn": "10",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3614.31,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 489.06,
+                                    "interestTaxesAmn": 36.09
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2301,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "1",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2302,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "2",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2303,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "3",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2304,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "4",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2305,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "5",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2306,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "6",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2307,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "7",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3367.19,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 258.92,
+                                    "interestTaxesAmn": 19.11
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2308,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "8",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3444.42,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 330.84,
+                                    "interestTaxesAmn": 24.42
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2309,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "9",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3537.08,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 417.14,
+                                    "interestTaxesAmn": 30.78
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2310,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "DC",
+                                    "quotasAmn": "10",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3614.31,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 489.06,
+                                    "interestTaxesAmn": 36.09
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2301,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "1",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2302,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "2",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2303,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "3",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2304,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "4",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2305,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "5",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2306,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "6",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2307,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "7",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2308,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "8",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2309,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "9",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "paymentModality": {
+                            "paymentModalityId": 2310,
+                            "simulationReceipt": [
+                                {
+                                    "receiptId": "TA",
+                                    "quotasAmn": "10",
+                                    "effectiveDate": "2023-06-27 00:00:00.0",
+                                    "invoiceDueDate": "2024-06-27 00:00:00.0",
+                                    "receiptTotAmn": 2876.84,
+                                    "receiptGrossAmn": 3089.16,
+                                    "taxAmn": 212.32,
+                                    "bonusAmn": 0,
+                                    "interestAmn": 0,
+                                    "interestTaxesAmn": 0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

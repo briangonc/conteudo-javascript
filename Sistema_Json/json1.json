@@ -1,0 +1,263 @@
+{
+    "autoQuotation": {
+        "companyId": "1",
+        "branchCode": "231",
+        "effectiveDate": "30062023",
+        "dueDate": "30062024",
+        "iofInd": false,
+        "insuranceTypeCode": "2",
+        "insuredCompanyTypeCode": "6238",
+        "insuranceDurationTypeCode": "1",
+        "claimLastTermInd": false,
+        "quoteParticipants": [
+            {
+                "participantFigureId": null,
+                "mainDriverInd": true,
+                "participantFigureTypeCode": "1",
+                "clientInsuranceRelationshipTypeCode": "10",
+                "participantFigureTypeDesc": "Segurado",
+                "figurePersonalData": {
+                    "naturalPerson": {
+                        "personName": {
+                            "name": "PRAML",
+                            "firstSurname": "GISELA"
+                        },
+                        "birthdate": "23071969",
+                        "genderCode": "1",
+                        "maritalStatusCode": "C",
+                        "yearsDriversLicense": " 0",
+                        "labourInformation": {
+                            "professionCode": "9999"
+                        }
+                    },
+                    "identificationMethod": {
+                        "identityDocumentTypeCode": "CPF",
+                        "identityDocumentNumber": "12345678911",
+                        "susepDocumentDesc": null,
+                        "susepDocumentNumber": null,
+                        "susepDocumentExpeditionDate": null,
+                        "dispatcherAgenciesTypeDesc": null
+                    },
+                    "loyaltyPlan": {
+                        "bonusClassTypeCode": 9,
+                        "codeCampaignTypeCode": 0
+                    },
+                    "address": {
+                        "roadTypeCode": 1,
+                        "addressName": "ANERON CORREA DE OLIVEIRA",
+                        "addressNum": "10",
+                        "zipCode": "91410070",
+                        "stateCode": "6",
+                        "municipalityDesc": "JARDIM DO SALSO",
+                        "countryDesc": "BRA",
+                        "districtDesc": ""
+                    },
+                    "contactMethods": [
+                        {
+                            "contactMethodId": null,
+                            "contactMethodTypeCode": "1",
+                            "contactMethodValue": "teste@gmail.com",
+                            "authorizedContactInd": false
+                        }
+                    ]
+                }
+            }
+        ],
+        "autoRisks": [
+            {
+                "profileInd": true,
+                "claimIndemnityTypeCode": "M",
+                "adjustmentFactorPerc": "100",
+                "taxExemptionTypeCode": "4",
+                "garagePlaceInd": [
+                    {
+                        "placeTypeCode": "1",
+                        "usageTypeCode": "1"
+                    },
+                    {
+                        "placeTypeCode": "2",
+                        "usageTypeCode": "3"
+                    },
+                    {
+                        "placeTypeCode": "3",
+                        "usageTypeCode": "3"
+                    }
+                ],
+                "garagePeriodTypeCode": "3",
+                "vehicleHomeAmn": "1",
+                "underAgeDriverInd": false,
+                "zonTariffCode": null,
+                "driverResidenceTypeCode": null,
+                "autoDetail": {
+                    "vehicleBrandCode": "48",
+                    "vehicleModelCode": "25",
+                    "vehicleSubModelCode": "4",
+                    "refValMarkCode": "023085-5",
+                    "natureUseTypeCode": "1",
+                    "vehicleModelYearNum": "2010",
+                    "vehicleManufactureYearNum": "2009",
+                    "vehicleTotPrice": "30171.00",
+                    "km0Ind": false,
+                    "chassisNumber": "94DTBAL10AJ408494",
+                    "othercategorydesc": null,
+                    "invoiceDate": null,
+                    "kilometersNum": null,
+                    "kilometersMonthlyAverageNum": null,
+                    "managementRiskInd": false,
+                    "truckRiskFirstTypeCode": null,
+                    "truckRiskSecondTypeCode": null,
+                    "alienationInd": false,
+                    "topCabinTypeCode": 0,
+                    "originalTopCabinInd": false,
+                    "seatsNumber": 1,
+                    "commercialUseInd": false,
+                    "replacementChassisInd": false,
+                    "vehicleArmorInd": false,
+                    "vehicleArmorTot": 0.0,
+                    "vehicleArmorLevelTypeCode": null,
+                    "trackerPropertyTypeCode": null,
+                    "blockerPropertyTypeCode": null,
+                    "blockerTrackerTypeCode": null,
+                    "trackerInd": false,
+                    "blockerTypeCode": null
+                }
+            }
+        ],
+        "policyValRenewMapfre": "4560000205831",
+        "distributorAsigned": [
+            {
+                "distributorId": "89064",
+                "operatorAgentId": null,
+                "affinityGroupId": null,
+                "brokerRenewalInd": true,
+                "comissionOperationPerc": 10
+            }
+        ]
+    },
+    "coverages": [
+        {
+            "coveragePackage": 1,
+            "coverageId": "203",
+            "coverageTitle": "Roubo/Furto",
+            "franchise": 30,
+            "coverageAmn": 30171.0
+        },
+        {
+            "coverageId": "205",
+            "coverageTitle": "RCFV-Danos Corporais",
+            "coverageAmn": 300000
+        },
+        {
+            "coverageId": "205",
+            "coverageTitle": "RCFV-Danos Corporais",
+            "coverageAmn": 300000
+        },
+        {
+            "coverageId": "204",
+            "coverageTitle": "RCFV-Danos Materias",
+            "coverageAmn": 200000
+        },
+        {
+            "coverageId": "116",
+            "coverageTitle": "RCFV-Danos Morais",
+            "coverageAmn": 30000
+        },
+        {
+            "coverageId": "119",
+            "coverageTitle": "APO - Morte Acidental",
+            "coverageAmn": 10000
+        },
+        {
+            "coverageId": "120",
+            "coverageTitle": "APO - Invalidez Permanente",
+            "coverageAmn": 10000
+        },
+        {
+            "coveragePackage": 1,
+            "coverageId": "1303",
+            "coverageTitle": "Extensão de Reboque",
+            "franchise": 0,
+            "coverageAmn": 0,
+            "coverageDetail": [
+                {
+                    "nameDetailCoverage": "TIP_COB_EXT_REBOQ",
+                    "valueDetailCoverage": "2",
+                    "descDetailCoverage": "600 KM"
+                }
+            ]
+        },
+        {
+            "coveragePackage": 1,
+            "coverageId": "1301",
+            "coverageTitle": "Vidros",
+            "franchise": 0,
+            "coverageAmn": 0,
+            "coverageDetail": [
+                {
+                    "nameDetailCoverage": "TIP_COB_VIDROS",
+                    "valueDetailCoverage": "2",
+                    "descDetailCoverage": "TOP PLUS"
+                }
+            ]
+        },
+        {
+            "coveragePackage": 1,
+            "coverageId": "1304",
+            "coverageTitle": "Assistência 24 Hrs",
+            "franchise": 0,
+            "coverageAmn": 0,
+            "coverageDetail": [
+                {
+                    "nameDetailCoverage": "TIP_COB_ASSISTENCIA",
+                    "valueDetailCoverage": "2",
+                    "descDetailCoverage": "250 KM"
+                }
+            ]
+        },
+        {
+            "coverageId": "201",
+            "coverageTitle": "Danos Próprios - Perda Parcial",
+            "coverageDetail": [
+                {
+                    "nameDetailCoverage": "TIP_FRANQUIA",
+                    "valueDetailCoverage": "11",
+                    "descDetailCoverage": "Normal"
+                }
+            ],
+            "coverageAmn": 30171.0
+        },
+        {
+            "coveragePackage": 1,
+            "coverageId": "218",
+            "coveragetTitle": "Danos Proprios - Perda Total",
+            "franchise": 30,
+            "coverageAmn": 30171.0
+        },
+        {
+            "coveragePackage": 1,
+            "coverageId": "202",
+            "coveragetTitle": "Incendio",
+            "franchise": 30,
+            "coverageAmn": 30171.0
+        },
+        {
+            "coveragePackage": 1,
+            "coverageId": "1302",
+            "coverageTitle": "Carro Reserva",
+            "franchise": 0,
+            "coverageAmn": 0,
+            "coverageDetail": [
+                {
+                    "nameDetailCoverage": "NUM_QTD_DIARIAS",
+                    "valueDetailCoverage": "1",
+                    "descDetailCoverage": "7 DIAS"
+                },
+                {
+                    "nameDetailCoverage": "TIP_CARRO_RESERVA",
+                    "valueDetailCoverage": "1",
+                    "descDetailCoverage": "Econômico com Ar"
+                }
+            ]
+        }
+    ]
+}
